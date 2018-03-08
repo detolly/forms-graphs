@@ -1,0 +1,29 @@
+C:\Users\Thomas\source\repos\forms graphs\forms graphs\bin\Debug\forms graphs.exe.config
+C:\Users\Thomas\source\repos\forms graphs\forms graphs\bin\Debug\forms graphs.exe
+C:\Users\Thomas\source\repos\forms graphs\forms graphs\bin\Debug\forms graphs.pdb
+C:\Users\Thomas\source\repos\forms graphs\forms graphs\obj\Debug\forms graphs.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\source\repos\forms graphs\forms graphs\obj\Debug\forms_graphs.Properties.Resources.resources
+C:\Users\Thomas\source\repos\forms graphs\forms graphs\obj\Debug\forms graphs.csproj.GenerateResource.Cache
+C:\Users\Thomas\source\repos\forms graphs\forms graphs\obj\Debug\forms graphs.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\forms graphs\forms graphs\obj\Debug\forms graphs.exe
+C:\Users\Thomas\source\repos\forms graphs\forms graphs\obj\Debug\forms graphs.pdb
+C:\Users\Thomas\source\repos\forms graphs\forms graphs\obj\Debug\forms_graphs.Form1.resources
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\bin\Debug\forms graphs.exe.config
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\bin\Debug\forms graphs.exe
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\bin\Debug\forms graphs.pdb
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\obj\Debug\forms graphs.csprojResolveAssemblyReference.cache
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\obj\Debug\forms_graphs.Form1.resources
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\obj\Debug\forms_graphs.Properties.Resources.resources
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\obj\Debug\forms graphs.csproj.GenerateResource.Cache
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\obj\Debug\forms graphs.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\obj\Debug\forms graphs.exe
+D:\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\obj\Debug\forms graphs.pdb
+C:\Users\Thomas\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\bin\Debug\forms graphs.exe.config
+C:\Users\Thomas\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\obj\Debug\forms graphs.exe
+C:\Users\Thomas\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\obj\Debug\forms graphs.pdb
+C:\Users\Thomas\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\bin\Debug\forms graphs.exe
+C:\Users\Thomas\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\bin\Debug\forms graphs.pdb
+C:\Users\Thomas\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\obj\Debug\forms graphs.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\obj\Debug\forms_graphs.Form1.resources
+C:\Users\Thomas\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\obj\Debug\forms_graphs.Properties.Resources.resources
+C:\Users\Thomas\OneDrive - Hordaland fylkeskommune\Random Code Backup\forms graphs\forms graphs\obj\Debug\forms graphs.csproj.GenerateResource.Cache
